@@ -21,6 +21,15 @@ A simple web-based expense tracker built with Django and pre-defined templates. 
 * Chart.js
 * SQLite
 
+## 📸 Screenshots
+
+### Dashboard
+
+<img width="1896" height="944" alt="dashboard1 png" src="https://github.com/user-attachments/assets/8b7071bf-1c1a-4cff-b39c-cbc8bbae64ff" />
+<img width="1899" height="937" alt="dashboard2 png" src="https://github.com/user-attachments/assets/761ee6b1-6f19-40fd-b608-57ae458b1747" />
+
+
+
 ## Installation
 
 1. Clone the repository:
@@ -70,13 +79,6 @@ python manage.py runserver
 ```text
 http://127.0.0.1:8000/
 ```
-
-## 📸 Screenshots
-
-### Dashboard
-
-<img width="1896" height="944" alt="dashboard1 png" src="https://github.com/user-attachments/assets/8b7071bf-1c1a-4cff-b39c-cbc8bbae64ff" />
-<img width="1899" height="937" alt="dashboard2 png" src="https://github.com/user-attachments/assets/761ee6b1-6f19-40fd-b608-57ae458b1747" />
 
 
 ## Author
